@@ -5,7 +5,7 @@
 In this challenge, I compared the performance of two machine learning models, Logistic Regression and Random Forest Classifier, in predicting spam emails. The dataset used was sourced from the UCI Machine Learning Library and contained various features extracted from emails, with the target variable indicating whether an email is spam or not.
 
 
-## The workflow of the project can be summarized as follows:
+## Workflow Process:
 
 Data Retrieval and Exploration: 
 
